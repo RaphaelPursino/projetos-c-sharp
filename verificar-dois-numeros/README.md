@@ -1,0 +1,1 @@
+Verificação de dois números.
