@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\bin\Debug\net8.0\verificar-dois-numeros.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\bin\Debug\net8.0\verificar-dois-numeros.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\bin\Debug\net8.0\verificar-dois-numeros.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\bin\Debug\net8.0\verificar-dois-numeros.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\bin\Debug\net8.0\verificar-dois-numeros.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\refint\verificar-dois-numeros.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\verificar-dois-numeros.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\verificar-dois-numeros\obj\Debug\net8.0\ref\verificar-dois-numeros.dll
