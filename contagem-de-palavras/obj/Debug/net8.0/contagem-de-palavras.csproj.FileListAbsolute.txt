@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\bin\Debug\net8.0\contagem-de-palavras.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\bin\Debug\net8.0\contagem-de-palavras.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\bin\Debug\net8.0\contagem-de-palavras.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\bin\Debug\net8.0\contagem-de-palavras.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\bin\Debug\net8.0\contagem-de-palavras.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\refint\contagem-de-palavras.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\contagem-de-palavras.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\contagem-de-palavras\obj\Debug\net8.0\ref\contagem-de-palavras.dll

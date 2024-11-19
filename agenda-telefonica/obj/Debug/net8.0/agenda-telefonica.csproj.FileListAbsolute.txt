@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\bin\Debug\net8.0\agenda-telefonica.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\bin\Debug\net8.0\agenda-telefonica.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\bin\Debug\net8.0\agenda-telefonica.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\bin\Debug\net8.0\agenda-telefonica.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\bin\Debug\net8.0\agenda-telefonica.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\refint\agenda-telefonica.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\agenda-telefonica.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\agenda-telefonica\obj\Debug\net8.0\ref\agenda-telefonica.dll
