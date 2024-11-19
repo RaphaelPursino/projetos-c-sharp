@@ -1,0 +1,28 @@
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.exe
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.deps.json
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.runtimeconfig.json
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.pdb
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\refint\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.pdb
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\Projetos\Cadastro de Clientes\obj\Debug\net8.0\ref\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.exe
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.deps.json
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.runtimeconfig.json
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\bin\Debug\net8.0\Cadastro de Clientes.pdb
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\refint\Cadastro de Clientes.dll
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.pdb
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\Cadastro de Clientes.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\Projetos VS\Cadastro de Clientes\obj\Debug\net8.0\ref\Cadastro de Clientes.dll
