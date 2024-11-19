@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\bin\Debug\net8.0\contador-de-vogais.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\bin\Debug\net8.0\contador-de-vogais.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\bin\Debug\net8.0\contador-de-vogais.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\bin\Debug\net8.0\contador-de-vogais.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\bin\Debug\net8.0\contador-de-vogais.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\refint\contador-de-vogais.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\contador-de-vogais.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\contador-de-vogais\obj\Debug\net8.0\ref\contador-de-vogais.dll
