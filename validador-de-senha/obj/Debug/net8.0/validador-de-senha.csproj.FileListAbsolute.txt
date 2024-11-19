@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\bin\Debug\net8.0\validador-de-senha.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\bin\Debug\net8.0\validador-de-senha.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\bin\Debug\net8.0\validador-de-senha.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\bin\Debug\net8.0\validador-de-senha.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\bin\Debug\net8.0\validador-de-senha.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\refint\validador-de-senha.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\validador-de-senha.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\validador-de-senha\obj\Debug\net8.0\ref\validador-de-senha.dll

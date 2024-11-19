@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\bin\Debug\net8.0\jogo-de-adivinhacao.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\bin\Debug\net8.0\jogo-de-adivinhacao.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\bin\Debug\net8.0\jogo-de-adivinhacao.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\bin\Debug\net8.0\jogo-de-adivinhacao.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\bin\Debug\net8.0\jogo-de-adivinhacao.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\refint\jogo-de-adivinhacao.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\jogo-de-adivinhacao.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\jogo-de-adivinhacao\obj\Debug\net8.0\ref\jogo-de-adivinhacao.dll
