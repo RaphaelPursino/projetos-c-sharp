@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\bin\Debug\net8.0\maior-e-menor.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\bin\Debug\net8.0\maior-e-menor.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\bin\Debug\net8.0\maior-e-menor.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\bin\Debug\net8.0\maior-e-menor.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\bin\Debug\net8.0\maior-e-menor.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\refint\maior-e-menor.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\maior-e-menor.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\maior-e-menor\obj\Debug\net8.0\ref\maior-e-menor.dll

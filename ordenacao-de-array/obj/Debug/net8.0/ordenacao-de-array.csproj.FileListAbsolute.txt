@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\bin\Debug\net8.0\ordenacao-de-array.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\bin\Debug\net8.0\ordenacao-de-array.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\bin\Debug\net8.0\ordenacao-de-array.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\bin\Debug\net8.0\ordenacao-de-array.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\bin\Debug\net8.0\ordenacao-de-array.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\refint\ordenacao-de-array.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ordenacao-de-array.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\ordenacao-de-array\obj\Debug\net8.0\ref\ordenacao-de-array.dll

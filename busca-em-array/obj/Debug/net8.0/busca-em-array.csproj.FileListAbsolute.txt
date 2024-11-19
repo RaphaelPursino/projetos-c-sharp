@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\bin\Debug\net8.0\busca-em-array.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\bin\Debug\net8.0\busca-em-array.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\bin\Debug\net8.0\busca-em-array.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\bin\Debug\net8.0\busca-em-array.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\bin\Debug\net8.0\busca-em-array.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\refint\busca-em-array.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\busca-em-array.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\busca-em-array\obj\Debug\net8.0\ref\busca-em-array.dll
