@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\bin\Debug\net8.0\inverter-string.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\bin\Debug\net8.0\inverter-string.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\bin\Debug\net8.0\inverter-string.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\bin\Debug\net8.0\inverter-string.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\bin\Debug\net8.0\inverter-string.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\refint\inverter-string.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\inverter-string.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\inverter-string\obj\Debug\net8.0\ref\inverter-string.dll
