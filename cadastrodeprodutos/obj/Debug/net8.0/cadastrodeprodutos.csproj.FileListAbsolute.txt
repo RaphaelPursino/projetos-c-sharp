@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\bin\Debug\net8.0\cadastrodeprodutos.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\bin\Debug\net8.0\cadastrodeprodutos.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\bin\Debug\net8.0\cadastrodeprodutos.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\bin\Debug\net8.0\cadastrodeprodutos.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\bin\Debug\net8.0\cadastrodeprodutos.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\refint\cadastrodeprodutos.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\cadastrodeprodutos.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\cadastrodeprodutos\obj\Debug\net8.0\ref\cadastrodeprodutos.dll
