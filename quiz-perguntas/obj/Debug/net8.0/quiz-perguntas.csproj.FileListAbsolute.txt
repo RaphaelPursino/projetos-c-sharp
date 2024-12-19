@@ -1,0 +1,15 @@
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\bin\Debug\net8.0\quiz-perguntas.exe
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\bin\Debug\net8.0\quiz-perguntas.deps.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\bin\Debug\net8.0\quiz-perguntas.runtimeconfig.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\bin\Debug\net8.0\quiz-perguntas.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\bin\Debug\net8.0\quiz-perguntas.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.AssemblyInfo.cs
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.sourcelink.json
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\refint\quiz-perguntas.dll
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.pdb
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\quiz-perguntas.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\projetos-c-sharp\quiz-perguntas\obj\Debug\net8.0\ref\quiz-perguntas.dll
